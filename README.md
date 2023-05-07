@@ -11,7 +11,7 @@
 
 <h3 align="left">Contactar por:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jose-antonio-ramos-mendoza-b03a63219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-antonio-ramos-mendoza-b03a63219" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ing-jose-ramos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-antonio-ramos-mendoza-b03a63219" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguages y herramientas:</h3>
